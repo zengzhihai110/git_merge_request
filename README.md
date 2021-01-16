@@ -1,0 +1,2 @@
+# git_merge_request
+git脚本自动实现提交merge_request，以及提交merge_request
